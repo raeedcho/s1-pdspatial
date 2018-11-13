@@ -4,3 +4,6 @@
 [submodule "lib/NeuronTable"]
 	path = lib/NeuronTable
 	url = https://github.com/limblab/NeuronTable.git
+[submodule "lib/circ-toolbox"]
+	path = lib/circ-toolbox
+	url = https://github.com/raeedcho/circ-toolbox.git
